@@ -1,8 +1,13 @@
 ---
 layout: default
-img: phones.png
-category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+img: pic03.jpg
+imgadd: box-shadow 
+imgval: 0px 0px 10px #838383
+category: Services2
+title: Where You Feel Safe And Secure
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+- CCTV on every floor
+- Back up power generator
+- Two Lifts per tower
+- Sensor-card operated (*Our main lobby, gym, car ramp entrance, and lifts are all sensor card operated.*)

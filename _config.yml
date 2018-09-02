@@ -3,7 +3,7 @@
 # ----------------------- #
 
 url: http://yoursite.com
-title: Your Awesome Site
+title: Wynn Plaza
 email: your-email@domain.com
 author: Your Name
 description: > # "Write an awesome description for your new site here. 
@@ -30,5 +30,5 @@ social:
     url: https://twitter.com/wynn-plaza
   - title: facebook
     url: https://www.facebook.com/WYNN-PLAZA-1746640468892190/
-  - title: linkedin
+  - title: google
     url: 

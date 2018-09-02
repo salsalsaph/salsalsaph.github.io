@@ -1,8 +1,24 @@
 ---
 layout: default
-img: ipad.png
+img: pic01.jpg
+imgadd: box-shadow 
+imgval: 0px 0px 10px #838383
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: The Condo to Fit Your Lifestyle
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+
+Located at **1674 Leon Guinto corner Malvar and Agoncillo Sts.**, it is situated in a relaxing haven just a street away from Taft Ave. and Pedro Gil, two of the busiest streets in Manila.
+
+Just a short walk away are: 
+- Pedro Gil LRT Station
+- Robinson’s Manila
+- P.C.U., P.W.U., U.P. Manila, D.L.S.U. and Other Universities
+- Roxas Blvd. and its famed sunset
+Other landmarks near the WP are:
+- SM Manila
+- SM Mall Of Asia 
+- Manila City Hall
+- American Embassy
+- Malate Church 
+- Adriatico Circle
