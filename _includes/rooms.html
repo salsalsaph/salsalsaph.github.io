@@ -1,0 +1,40 @@
+<section id="showcase_rooms">
+  <div class="content-section-b">
+    <div class="container">
+      <hr class="section-heading-spacer">
+      <div class="clearfix"></div>
+      <h2>Preview Our Rooms</h2>
+
+      <a href="/img/rooms/room101.jpg" onclick="return viewer1.show(0)">
+        <img class="img-gallery" src="/img/rooms/room101.jpg" alt="" >
+      </a>
+      <a href="/img/rooms/room102.jpg" onclick="return viewer1.show(1)">
+        <img class="img-gallery" src="/img/rooms/room102.jpg" alt="" >
+      </a>
+      <a href="/img/rooms/room103.jpg" onclick="return viewer1.show(2)">
+        <img class="img-gallery" src="/img/rooms/room103.jpg" alt="" >
+      </a>
+      <a href="/img/rooms/room104.jpg" onclick="return viewer1.show(3)">
+        <img class="img-gallery" src="/img/rooms/room104.jpg" alt="" >
+      </a>
+      <a href="/img/rooms/room105.jpg" onclick="return viewer1.show(4)">
+        <img class="img-gallery" src="/img/rooms/room105.jpg" alt="" >
+      </a>
+      <a href="/img/rooms/room106.jpg" onclick="return viewer1.show(5)">
+        <img class="img-gallery" src="/img/rooms/room106.jpg" alt="" >
+      </a>
+
+    </div>
+  </div>
+  <script>
+  var viewer1 = new PhotoViewer();
+    viewer1.disableEmailLink();
+    viewer1.disablePhotoLink();
+    viewer1.add('/img/rooms/room101.jpg');
+    viewer1.add('/img/rooms/room102.jpg');
+    viewer1.add('/img/rooms/room103.jpg');
+    viewer1.add('/img/rooms/room104.jpg');
+    viewer1.add('/img/rooms/room105.jpg');
+    viewer1.add('/img/rooms/room106.jpg');
+  </script>
+</section>
