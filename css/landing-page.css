@@ -194,12 +194,7 @@ p.copyright {
   margin-left: auto;
 }
 
-@media(min-width:1200px) {
-  .g-container {
-    width:900px;
-  }
-}
-@media(min-width:992px) {
+@media(min-width:900px) {
   .g-container {
     width:900px;
   }
