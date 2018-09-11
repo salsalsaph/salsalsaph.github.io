@@ -182,7 +182,7 @@ p.copyright {
     width: 370px;
     height: 214px;
 }
-@media(max-width:1020px) {
+@media(max-width:1200px) {
   .vr-gallery {
       width: 100%;
       height: 100%;
