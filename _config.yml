@@ -3,12 +3,12 @@
 # ----------------------- #
 
 url: http://yoursite.com
-title: Wynn Plaza
+title: Wynn Plaza Condominium
 email: your-email@domain.com
 author: Your Name
-description: > # "Write an awesome description for your new site here. 
-  You can edit this line in _config.yml. It will appear in your document 
-  head meta (for Google search results) and in your feed.xml site 
+description: > # "Write an awesome description for your new site here.
+  You can edit this line in _config.yml. It will appear in your document
+  head meta (for Google search results) and in your feed.xml site
   description.
 copyright: 'Copyright &copy; 2018 Wynn Plaza. All Rights Reserved.'
 credits: 'Enjoy all the convenience of life in Manila with us <a href="https://www.facebook.com/WYNN-PLAZA-1746640468892190/">now</a>. <p>Ready for Occupancy. Units Still Available.</p>'
@@ -31,4 +31,4 @@ social:
   - title: facebook
     url: https://www.facebook.com/WYNN-PLAZA-1746640468892190/
   - title: google
-    url: 
+    url:
