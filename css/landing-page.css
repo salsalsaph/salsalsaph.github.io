@@ -188,3 +188,19 @@ p.copyright {
       height: 100%;
   }
 }
+
+.g-container {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+@media(min-width:1200px) {
+  .g-container {
+    width:900px;
+  }
+}
+@media(min-width:992px) {
+  .g-container {
+    width:900px;
+  }
+}
