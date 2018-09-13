@@ -199,6 +199,7 @@ p.copyright {
   height: 640px;
   border: none;
   max-width: 100%;
+  margin-top: 10px;
 }
 
 @media(min-width:900px) {
