@@ -208,13 +208,42 @@ p.copyright {
   }
 }
 
+
+
+#map-wynn {
+    width: 100%;
+    height: 1000px;
+    background-image: url("/img/map.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+@media(max-width:1080px) {
+  #map-wynn{
+    height:590px;
+  }
+}
+
 @media(max-width:900px) {
   .if-con {
     height:400px;
   }
+  #map-wynn {
+    height: 490px;
+  }
 }
+
+@media(max-width:720px) {
+  #map-wynn{
+    height:420px;
+  }
+}
+
 @media(max-width:550px) {
   .if-con {
     height:250px;
+  }
+  #map-wynn {
+    display: none;
   }
 }
